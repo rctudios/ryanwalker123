@@ -5,7 +5,7 @@ os.system('pip install pytest -q --user --no-warn-script-location')
 os.system('pip install pytest-sugar -q --user')
 
 import pytest
-import num_gen 
+import num_gen as student
 
 def main():
     a = ''
